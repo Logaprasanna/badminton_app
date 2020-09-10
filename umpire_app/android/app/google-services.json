@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "164512478053",
+    "firebase_url": "https://the-umpire-app.firebaseio.com",
+    "project_id": "the-umpire-app",
+    "storage_bucket": "the-umpire-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164512478053:android:d525f583fbd5f1ab12a78c",
+        "android_client_info": {
+          "package_name": "darklord.umpireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164512478053-oef65m95lmcpjb70lu4bnn9ojt22pts1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkoDhoTtiLqHs_r7SIeryZ0w-2SbAJonA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164512478053-oef65m95lmcpjb70lu4bnn9ojt22pts1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

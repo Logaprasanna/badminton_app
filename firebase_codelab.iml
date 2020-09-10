@@ -5,7 +5,13 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/badminton_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/badminton_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/badminton_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/calc_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/calc_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/calc_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/cloud_firestore/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/cloud_firestore/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/cloud_firestore/build" />
@@ -18,10 +24,22 @@
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_core/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_core/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/firebase_core/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/new_todo_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/new_todo_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/new_todo_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/psyter_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/psyter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/psyter_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ref_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ref_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ref_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/umpire_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/umpire_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/umpire_app/build" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
-    <orderEntry type="library" name="Dart Packages" level="project" />
     <orderEntry type="library" name="Flutter Plugins" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>
